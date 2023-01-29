@@ -7,7 +7,6 @@ public class Pessoa {
 	private String sobrenome;
 	private Integer idade;
 	private Date dataNascimento;
-	private Date dataNascimento2;
 
 	public String getNome() {
 		return nome;
